@@ -1,5 +1,30 @@
+body{
+    background-color: gold;
+}
 header{
-font: 15
+margin: 10px;
+padding: 20px;
+}
+nav{
+    margin: 10px;
+    padding: 20px;
+    }
+a:hover{
+    background-color: red;
+}
+.Student{
+    margin: 10px;
+    padding: 20px;
+}
+
+#Events{
+    margin: 10px;
+    padding: 20px;
+}
+
+#News{
+    margin: 10px;
+    padding: 20px;
 }
 
 #Organizations{
@@ -8,4 +33,22 @@ font: 10
 
 .p{
 font: 12
+}
+
+h1{
+    font-family: Georgia;
+    font-size: 15;
+
+}
+
+h2{
+    font-family: Georgia;
+    font-size: 13;
+
+}
+
+p{
+    font-family: Georgia;
+    font-size: 12;
+    color: maroon;
 }
